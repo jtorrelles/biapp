@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+#VueJs
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+src/_drafts
+package-lock.json
+README_VUE.md
